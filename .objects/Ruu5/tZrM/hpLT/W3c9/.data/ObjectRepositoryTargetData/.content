@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="tDJOqGCM5USchh5B2tCnfg" Reference="V-e0v0BegEK_V8zJ1L3cvg/W3c9oE_nmkWckH84YODUaQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sahibinden.com/kiralik-daire/istanbul-eyupsultan-alibeykoy-guzeltepe-mh." CVScreenId="4d517c2f-c626-4a46-8f25-4b46d33881df" CvElementArea="257, 844, 22, 21" CvType="CheckBox" DesignTimeRectangle="260, 955, 22, 19" DesignTimeScaleFactor="1.25" FuzzySelectorArgument="&lt;webctrl parentid='searchResultLeft*' tag='I' type='' class='' aaname='' /&gt;" Guid="123787ae-27ea-45ca-ad33-0b7640d04c12" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Güzeltepe Mh. Kiralık Daire Fiyatları ve Kiralık Ev İlanları - sahibinden.com' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="4d517c2f-c626-4a46-8f25-4b46d33881df" CvTextArea="282, 846, 100, 18" CvTextArgument="[odaSayısı]" CvType="Text" DesignTimeRectangle="285, 954, 28, 21" ElementType="Text" FuzzySelectorArgument="[string.Format(&quot;&lt;webctrl parentid='searchResultLeft-a20' tag='A' type='' class='js-attribute facetedCheckbox' aaname='                                                                                          {0}' check:innerText='{0}' /&gt;&quot;, in_odaSayısı)]" Guid="ba22bbf8-243c-4217-985a-3ad78732755a" ImageBase64="" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b8ce42ceedf0436ff262f0dbab9750c3.png" xmlns="">0TrFgMlEsMkOwPFWSyQhUYg</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="2">
+      <ObjectRepositoryVariableData DefaultValue="*" Name="in_odaSayısı" />
+      <ObjectRepositoryVariableData DefaultValue="2+1" Name="odaSayısı" />
+    </scg:List>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

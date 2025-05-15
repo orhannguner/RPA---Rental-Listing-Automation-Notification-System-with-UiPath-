@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Satılık",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "WDZE-2FxqU2X4rdejNfWiQ",
+  "Reference": "V-e0v0BegEK_V8zJ1L3cvg/WDZE-2FxqU2X4rdejNfWiQ",
+  "ParentRef": "V-e0v0BegEK_V8zJ1L3cvg/RzM1jebojkeV5EQgHfVxlg",
+  "Created": "2025-04-07T22:53:32.3636526Z",
+  "Updated": "2025-04-07T22:53:32.3636526Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

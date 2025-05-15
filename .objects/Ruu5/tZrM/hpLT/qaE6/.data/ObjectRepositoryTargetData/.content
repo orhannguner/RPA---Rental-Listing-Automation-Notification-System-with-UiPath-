@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="8qZ9OxomxECmGtZMFj6bmg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sahibinden.com/kiralik-daire/istanbul-eyupsultan-alibeykoy-guzeltepe-mh." CVScreenId="4d517c2f-c626-4a46-8f25-4b46d33881df" CvElementArea="340, 477, 74, 43" CvType="InputBox" DesignTimeRectangle="343, 478, 69, 39" DesignTimeScaleFactor="1.25" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl name='price_max' tag='INPUT' type='text' class='numericInput js-manual-search-input' placeholder='max TL' aaname='' /&gt;" Guid="e5b86e65-7751-47b1-bf36-d3f9e1e157dc" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Güzeltepe Mh. Kiralık Daire Fiyatları ve Kiralık Ev İlanları - sahibinden.com' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="4d517c2f-c626-4a46-8f25-4b46d33881df" CvElementArea="364, 425, 56, 43" CvTextArea="379, 439, 25, 12" CvTextArgument="EUR" CvType="Button" DesignTimeRectangle="366, 426, 53, 39" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='EUR' parentid='u-price' tag='A' type='' class='js-attribute js-unit-tab' check:innerText='EUR' /&gt;" Guid="28c89698-08ff-49ff-afa1-fa9cad438b55" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="525d241a13006375f5bb24c027ff1464.png" xmlns="">0qQ39YQcDI0usZI5b1rTpXw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

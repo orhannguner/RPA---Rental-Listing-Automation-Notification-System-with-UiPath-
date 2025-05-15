@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="iDyMgiI7_UuSSy0JWYlnkQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sahibinden.com/kategori/emlak-konut" CVScreenId="6e03f0d8-829b-41a8-ae0d-0ba960056efb" CvTextArea="259, 357, 50, 16" CvTextArgument="Kiralık" CvType="Text" DesignTimeRectangle="260, 356, 48, 21" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Kiralık' tag='H2' type='' class='' check:innerText='Kiralık' /&gt;" Guid="79360610-517a-47dc-a016-66e3baaad085" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Konut Fiyatları ve Emlak İlanları sahibinden.com&amp;apos;da' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6e03f0d8-829b-41a8-ae0d-0ba960056efb" CvTextArea="240, 274, 58, 18" CvTextArgument="Konut" CvType="Text" DesignTimeRectangle="241, 275, 289, 18" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H1' type='' class='category-name' aaname='Konut' check:innerText='Konut' /&gt;" Guid="3b247eee-2a21-49af-bfa4-997073e41863" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2de23a048e94e8b5b5f2bc57cd3ee91d.png" xmlns="">02OQZlrc7lUuw9apXobJuvA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

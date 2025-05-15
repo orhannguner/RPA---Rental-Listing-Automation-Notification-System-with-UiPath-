@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Kiralık",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "JHu-UwHcmUyr28WD5HREhA",
+  "Reference": "V-e0v0BegEK_V8zJ1L3cvg/JHu-UwHcmUyr28WD5HREhA",
+  "ParentRef": "V-e0v0BegEK_V8zJ1L3cvg/hpLTNr32Wkq4V2_kBoh41w",
+  "Created": "2025-04-04T22:58:54.4597059Z",
+  "Updated": "2025-04-04T22:58:54.4597059Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

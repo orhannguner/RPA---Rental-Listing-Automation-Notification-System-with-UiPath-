@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="iwo-qv6w1EqBPDb8AgaMQA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sahibinden.com/kiralik" CVScreenId="2ce5f133-bdc5-49ef-bf3e-b9b1a99628b0" CvElementArea="512, 316, 32, 32" CvType="CloseButton" DesignTimeRectangle="514, 318, 28, 29" DesignTimeScaleFactor="1.25" FuzzySelectorArgument="&lt;webctrl class='collapse-pane' parentid='searchResultLeft-address' tag='A' type='' aaname='' /&gt;" Guid="9ae1b217-7fd3-4a3b-8b87-a6cae60ff679" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Kiralık Rezidans, Villa, Müstakil Ev ve Daireler - sahibinden.com' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6a9cc29bd836146e77dcb38743a29f7a.png" xmlns="">0ej-BOPorIE6CGoLs23LOQg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

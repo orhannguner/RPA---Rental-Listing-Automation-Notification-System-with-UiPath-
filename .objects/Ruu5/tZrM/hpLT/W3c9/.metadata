@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Stüdyo (1+0)",
+  "Type": "Element",
+  "Id": "W3c9oE_nmkWckH84YODUaQ",
+  "Reference": "V-e0v0BegEK_V8zJ1L3cvg/W3c9oE_nmkWckH84YODUaQ",
+  "ParentRef": "V-e0v0BegEK_V8zJ1L3cvg/hpLTNr32Wkq4V2_kBoh41w",
+  "Created": "2025-04-07T22:47:59.375441Z",
+  "Updated": "2025-04-07T22:47:59.375441Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

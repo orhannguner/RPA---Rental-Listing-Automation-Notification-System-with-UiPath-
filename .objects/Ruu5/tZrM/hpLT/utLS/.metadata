@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Semt",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "utLSfvmxn0KwFPJFCtVo6Q",
+  "Reference": "V-e0v0BegEK_V8zJ1L3cvg/utLSfvmxn0KwFPJFCtVo6Q",
+  "ParentRef": "V-e0v0BegEK_V8zJ1L3cvg/hpLTNr32Wkq4V2_kBoh41w",
+  "Created": "2025-04-07T00:35:29.5519667Z",
+  "Updated": "2025-04-07T00:35:29.5519667Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

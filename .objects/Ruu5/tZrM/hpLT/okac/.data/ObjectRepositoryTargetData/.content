@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="YbA_Ul7eFUOmEZGUcnUKFQ" Reference="V-e0v0BegEK_V8zJ1L3cvg/okacJP69q06suYOnaOLwmA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sahibinden.com/kiralik" CVScreenId="76ea19ad-e3db-4541-89c2-6f830f24b9f7" CvElementArea="340, 480, 73, 42" CvType="InputBox" DesignTimeRectangle="343, 548, 69, 39" DesignTimeScaleFactor="1.25" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl name='price_max' tag='INPUT' type='text' class='numericInput js-manual-search-input' placeholder='max TL' aaname='' /&gt;" Guid="38dd2a4c-5fd6-4c20-9d39-257638447128" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Kiralık Rezidans, Villa, Müstakil Ev ve Daireler - sahibinden.com' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="76ea19ad-e3db-4541-89c2-6f830f24b9f7" CvTextArea="259, 385, 42, 21" CvTextArgument="Fiyat" CvType="Text" DesignTimeRectangle="241, 435, 250, 55" FuzzySelectorArgument="&lt;webctrl id='_cllpsID_price' tag='DT' type='' class='collapseTitle' aaname='             Fiyat' check:innerText='Fiyat' /&gt;" Guid="df7abec8-9915-48f4-b777-37a64569d1a3" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d7bd8a84daeab84fc5cde0a24374ecbc.png" xmlns="">00jDQEnaaLEqKu2zC1DHA8A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

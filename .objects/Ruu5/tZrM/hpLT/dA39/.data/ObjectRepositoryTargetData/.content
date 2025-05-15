@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Iw5wqSW3ikGeEprFyLhS9Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sahibinden.com/kiralik" CVScreenId="1ae02c2e-22b2-460d-a620-896446a6f4d3" CvElementArea="270, 462, 22, 22" CvType="CheckBox" DesignTimeRectangle="273, 464, 23, 19" DesignTimeScaleFactor="1.25" FuzzySelectorArgument="&lt;webctrl type='' parentid='searchResultLeft-address' tag='I' class='' aaname='' /&gt;" Guid="6c46fe08-a397-4dc0-9e1a-5ad0246d3c75" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Kiralık Rezidans, Villa, Müstakil Ev ve Daireler - sahibinden.com' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1ae02c2e-22b2-460d-a620-896446a6f4d3" CvElementArea="270, 462, 22, 22" CvTextArea="297, 464, 86, 18" CvTextArgument="Eyüpsultan" CvType="CheckBox" DesignTimeRectangle="260, 458, 260, 31" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Eyüpsultan' parentid='searchResultLeft-address' tag='A' type='' class='noChild facetedCheckbox' check:innerText='Eyüpsultan' /&gt;" Guid="fa0b16cd-a3e4-4fed-9dbb-c4fbfe846f09" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="955520b4e29c516b014cd23d1d4e5ea3.png" xmlns="">0giUxjZmj-0idxlASuGHkCg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

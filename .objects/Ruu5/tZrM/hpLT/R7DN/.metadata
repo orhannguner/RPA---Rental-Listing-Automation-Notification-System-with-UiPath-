@@ -1,0 +1,14 @@
+﻿{
+  "Name": "İstanbul (Tümü)(1)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "R7DNZPpYk0SkewV2QCDwQg",
+  "Reference": "V-e0v0BegEK_V8zJ1L3cvg/R7DNZPpYk0SkewV2QCDwQg",
+  "ParentRef": "V-e0v0BegEK_V8zJ1L3cvg/hpLTNr32Wkq4V2_kBoh41w",
+  "Created": "2025-04-08T23:31:19.8060919Z",
+  "Updated": "2025-04-08T23:31:19.8060919Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

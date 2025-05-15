@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="BiMr1Gbo40yKVkXSRicmYg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sahibinden.com/kiralik" CVScreenId="0fe8e7e6-021a-47d3-acaf-855078b80738" CvElementArea="271, 255, 232, 48" CvType="InputBox" DesignTimeRectangle="274, 258, 227, 43" DesignTimeScaleFactor="1.25" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl class='js-address-filter' parentid='searchResultLeft-address' tag='INPUT' type='text' placeholder='Semt / Mahalle' aaname='' /&gt;" Guid="91479c32-7c22-4da4-89b6-01deeccf2822" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Kiralık Rezidans, Villa, Müstakil Ev ve Daireler - sahibinden.com' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b0c3cd84512e44a7da951ebb27f79431.png" xmlns="">0sFGSWQJ7AkCORLACVHnQMA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

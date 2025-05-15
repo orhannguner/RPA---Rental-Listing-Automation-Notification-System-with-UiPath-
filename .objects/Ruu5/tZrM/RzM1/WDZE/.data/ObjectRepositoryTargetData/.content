@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="S4EE2g-850mdMhnUV0cVgA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sahibinden.com/kategori/emlak-konut" CVScreenId="69c524fd-d349-44f6-a927-1b2a5bd4b24a" CvElementArea="626, 432, 183, 41" CvType="InputBox" DesignTimeRectangle="636, 441, 145, 23" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='searchForm' tag='SPAN' type='' class='' aaname='Satılık' check:innerText='Satılık' /&gt;" Guid="5ce81035-d60e-4019-8ec0-2b0104fd8868" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Konut Fiyatları ve Emlak İlanları sahibinden.com&amp;apos;da' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="58b98aad390acd4b27e11e5a2e1f2a10.png" xmlns="">0LPZMNGC6HkGH1Fo7mLuObw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

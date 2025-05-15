@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="MgPVRZNCW0e_lyfiT4uwsw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sahibinden.com/kiralik" CVScreenId="7751061d-e106-486f-b484-1c195c6805d6" CvElementArea="259, 452, 214, 43" CvType="InputBox" DesignTimeRectangle="260, 453, 212, 40" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='searchResultLeft-address' tag='A' type='' class='faceted-select' aaname=' &amp;#x9;                &amp;#x9;İl' check:innerText='İl' /&gt;" Guid="56e1d8e2-7f29-4331-bf22-afbf75e68410" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Kiralık Rezidans, Villa, Müstakil Ev ve Daireler - sahibinden.com' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="7751061d-e106-486f-b484-1c195c6805d6" CvTextArea="257, 416, 215, 23" CvTextArgument="Adres Türkiye" CvType="Text" DesignTimeRectangle="241, 399, 250, 54" FuzzySelectorArgument="&lt;webctrl id='addressSelector' tag='DT' type='' class='collapseTitle notCollapsable' aaname='             Adres' check:innerText='Adres' /&gt;" Guid="0cbe08b0-4a8c-4587-8db8-2e2f435ac430" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9bdc57a4f1ccbe2802e12dfef8f5541e.png" xmlns="">0HzOx7C_6OEiU1L5d7q5Vbw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

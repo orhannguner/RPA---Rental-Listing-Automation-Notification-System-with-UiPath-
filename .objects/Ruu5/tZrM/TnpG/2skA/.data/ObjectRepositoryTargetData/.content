@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="S79cACoMUUWMDfcbdrGXXA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sahibinden.com/ilan/emlak-konut-kiralik-alibeykoy-metro-tramvay-otogar-5dk-bilgi-halic-universitesi-1234570320/detay" CVScreenId="9fb7e94e-640f-4f9c-84fe-8d58a7ad98db" CvElementArea="238, 594, 1448, 213" CvType="InputBox" DesignTimeRectangle="242, 599, 1435, 210" DesignTimeScaleFactor="1.25" FuzzySelectorArgument="&lt;webctrl id='classifiedDescription' tag='DIV' type='' class='uiBoxContainer' aaname='         ' /&gt;" Guid="824fad53-8b48-46be-8875-608039559889" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Alibeyköy-Metro&amp;amp;Tramvay&amp;amp;Otogar 5dk / Bilgi, Haliç üniversitesi - Kiralık Daire İlanları sahibinden.com&amp;apos;da - 1234570320' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="9fb7e94e-640f-4f9c-84fe-8d58a7ad98db" CvElementArea="1646, 570, 24, 20" CvTextArea="252, 571, 81, 22" CvTextArgument="Açıklama" CvType="ArrowButton" DesignTimeRectangle="254, 570, 1411, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='classified-detail' tag='A' type='' class='' aaname='Açıklama' check:innerText='Açıklama' /&gt;" Guid="75bbb1c1-717f-48d1-b36c-c51bfee98f07" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c617ee0bd04ac2ce962e9102e5d88c9c.png" xmlns="">0gHhLWcXZBkSGjSrBI-aCUQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

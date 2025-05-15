@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="JhDxe3H2C0W2hAhmAixLmg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sahibinden.com/kiralik" CVScreenId="3ad34382-da78-409a-9c54-dab9e312de9b" CvElementArea="26, 642, 21, 21" CvType="CheckBox" DesignTimeRectangle="10, 643, 22, 19" DesignTimeScaleFactor="1.25" FuzzySelectorArgument="&lt;webctrl parentid='searchResultLeft-a20' tabindex='5' tag='I' type='' class='' aaname='' /&gt;" Guid="403e7cfa-3de0-4b0e-b142-e4760a62ab05" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Kiralık Rezidans, Villa, Müstakil Ev ve Daireler - sahibinden.com' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="3ad34382-da78-409a-9c54-dab9e312de9b" CvTextArea="26, 489, 90, 19" CvTextArgument="Oda Sayısı" CvType="Text" DesignTimeRectangle="-9, 471, 250, 55" FuzzySelectorArgument="&lt;webctrl id='_cllpsID_a20' tag='DT' type='' class='collapseTitle' aaname='                     Oda Sayısı' check:innerText='Oda Sayısı' /&gt;" Guid="e8fe28a4-77a5-4cef-920a-0e79b3054e3f" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4680e87eab1ae1134fa0eda2110a9c34.png" xmlns="">0sa7xd1qglEGxlLYAF9q9EA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

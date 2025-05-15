@@ -1,0 +1,14 @@
+﻿{
+  "Name": "İstanbul",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "GeyHIFmbj0mmkDKhmmlWqA",
+  "Reference": "V-e0v0BegEK_V8zJ1L3cvg/GeyHIFmbj0mmkDKhmmlWqA",
+  "ParentRef": "V-e0v0BegEK_V8zJ1L3cvg/RzM1jebojkeV5EQgHfVxlg",
+  "Created": "2025-04-07T22:54:24.9228414Z",
+  "Updated": "2025-04-07T22:54:24.9228414Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

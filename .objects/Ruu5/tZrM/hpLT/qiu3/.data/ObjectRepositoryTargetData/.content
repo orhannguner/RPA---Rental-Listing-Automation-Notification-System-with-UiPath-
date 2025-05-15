@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="RYrlvLao9UejzuAogcKjOw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sahibinden.com/kiralik" CVScreenId="9dfd16ef-706d-4828-8020-f267a8149f6b" CvTextArea="272, 381, 122, 21" CvTextArgument="İstanbul (Tümü)" CvType="Text" DesignTimeRectangle="514, 317, 28, 29" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="[string.Format(&quot;&lt;webctrl aaname='{0}*' parentid='searchResultLeft-address' tag='A' type='' class='noChild single-selection' check:innerText='{0}' /&gt;&quot;, in_il)]" Guid="1b6df31d-e399-452c-91c5-0f1864832098" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Kiralık Rezidans, Villa, Müstakil Ev ve Daireler - sahibinden.com' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="9dfd16ef-706d-4828-8020-f267a8149f6b" CvElementArea="512, 316, 30, 31" CvType="CloseButton" DesignTimeRectangle="516, 340, 155, 18" FuzzySelectorArgument="&lt;webctrl class='collapse-pane' parentid='searchResultLeft-address' tag='A' type='' aaname='' /&gt;" Guid="d829d475-6f2f-4ce2-b46e-56495d95003c" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4ddfb01ff7077a7c189e2c5547094d1b.png" xmlns="">0XqiUFcC6WUqgWax-QJbDcw</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData IsVariable="False" Name="in_il" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

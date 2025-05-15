@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="rHBXkY_jlUK-7bBBmF7dGQ" Reference="V-e0v0BegEK_V8zJ1L3cvg/zLMsu8jJcUqDyUSLMo8zXw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sahibinden.com/kiralik" CVScreenId="1c3f7809-5806-42ad-98ff-38cfc62cfee8" CvTextArea="282, 476, 12, 15" CvTextArgument="0" CvType="Text" DesignTimeRectangle="282, 477, 12, 15" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="[string.Format(&quot;&lt;webctrl parentid='searchResultLeft-*' tag='A' aaname='                                                                                          {0}' /&gt;&quot;, currentText)]" Guid="af61dfe6-98d4-47a5-b26a-89c24721d8c4" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Kiralık Rezidans, Villa, Müstakil Ev ve Daireler - sahibinden.com' /&gt;" SearchSteps="Selector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1c3f7809-5806-42ad-98ff-38cfc62cfee8" CvTextArea="259, 430, 75, 22" CvTextArgument="Bina Yaşı" CvType="Text" DesignTimeRectangle="241, 413, 250, 55" FullSelectorArgument="&lt;webctrl id='_cllpsID_a812' tag='DT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='_cllpsID_a812' tag='DT' type='' class='collapseTitle' aaname='                     Bina Yaşı' check:innerText='Bina Yaşı' /&gt;" Guid="ded3ffdc-c737-4338-b607-d7f78c0db348" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="5a5d9717f89db554f16847a1204453e4.png" xmlns="">0a4rbejW-UkGPB9BmtBNJ3g</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="currentText" />
+    </scg:List>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

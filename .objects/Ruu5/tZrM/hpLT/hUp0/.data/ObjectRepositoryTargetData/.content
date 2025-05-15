@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="TZIuOHpLykiaRdBKJDjAhg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sahibinden.com" CVScreenId="e1bb6961-dcae-425f-aa15-9c901f842dd4" CvTextArea="305, 684, 46, 15" CvTextArgument="Konut" CvType="Text" DesignTimeRectangle="306, 681, 46, 21" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='                             Konut' parentid='container' tag='A' type='' class='' check:innerText='Konut' /&gt;" Guid="e52e1fa3-43be-421d-b91f-9f4d413d7428" ScopeSelectorArgument="&lt;html app='chrome.exe' title='sahibinden.com - Türkiye&amp;apos;nin Online İlan ve Alışveriş Sitesi' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e1bb6961-dcae-425f-aa15-9c901f842dd4" CvElementArea="259, 643, 36, 36" CvType="Icon" DesignTimeRectangle="257, 641, 40, 40" ElementType="Icon" Guid="f908848b-6a4c-457d-b5a0-e50c95f6b0b7" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAALYSURBVFhH7VjPaxQxFPbv0IpWRBS0FfTiyYM38ejBu+BJEaQnT/4FHsRL/wdp3eq2iogiRSq2WtqLRVDE1UNbWUGLrk3yfF+S/eFMMklmBtnDfvCxy8x7L99OXr5kdg8NOUYCq2IksCrKC1SK6PcWqe0lUu9uk3xxkeT8SZKNcUN852u4hxjE6pxElBOodklt3CHRnCBx/wCJmb3FRAzHIge5KUgTCGGf7pF8es4tJILIRY1YodECleiYpzYzlhs0nWO6FmqGECUQheTyNRKzdYiz5FqoGRIZFtjttzrFdck1Q30ZFIh+qWdafWSR6EkPigXyL0taELxa5ZspkkuXk544xvA9Rb9A9iyzKNxFc4T3tRomV+6SeHWlL3J2f1Cwmeq8T/oFsrFqn3MUy5EFqC/zNtGCReJpirnDpFpzJDfuGqGufJDH0maegVcg3D/KhGHAWy9tVgbiF8nVm1xMkvrxgcUecdcAeSy942TgF8hblLPQIBuHSLXXEG2SXFDCfIQEMjFmFl6B2EddRXpcOEXq21sbHYGdFokHR921LDFmFn6BvNm7imgunCbV2baR8VCbi/qpO2syMWYWfoG8Kl1FQLl2y0alQyxectYEMWYWpQSKJ2dNQ9v+igIWzNdHPM3H3DWZaQKLphhsThL9+W6jw1A/P4Z7MGmKQ4vk4fGcQPl+mu3ioO4zyd43iJhVnLRIgjbjECieX+jdl6+v2qsGtdtM0KjrFphq1MGtDgI7bRtsUElg6lYXPCxww6udzzbYoFBge73QA9MPC0DhcWsfiWfnSa7c6FE0T/TvPz7Tv7d8XVvTv/l9ljtuWQz3gRXgX6aneliP/MBwvzRZoJBZNHWIrPm1swdMN/dL0ntKhsjVPVcwrYNIE9hFty/hkzGnbsTg5B3oNxfKCQTgWWyscH9sUdhH9R9GeHkC8Z2v4Z7eIWDCDp8LobzA/4SRwKoYCawGor9gMjqeNsUwOAAAAABJRU5ErkJggg==" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4ac3c867fef74f5a7ae033ac9f14cd95.png" xmlns="">0w0XMK9k2fESXD_P4VdYDag</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

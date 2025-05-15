@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="WV05cabG-kOfiYSZsGQLXQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sahibinden.com/kategori/emlak-konut" CVScreenId="31976996-af15-4a18-abc4-3b796da9d9b0" CvElementArea="740, 495, 100, 42" CvType="InputBox" DesignTimeRectangle="743, 495, 95, 40" DesignTimeScaleFactor="1.25" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='maxPrice' tag='INPUT' type='text' class='priceField' placeholder='Max TL' aaname='' /&gt;" Guid="575b4212-eaf6-4c23-9cc3-3f492c235ac6" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Konut Fiyatları ve Emlak İlanları sahibinden.com&amp;apos;da' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="723, 495, 20, 40" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='splitter' parentid='searchForm' tag='SPAN' type='' aaname=' &amp;#x9;                                            - &amp;#x9;                                        ' check:innerText='-' /&gt;" Guid="3c18045d-b9aa-4fc8-81f9-71e882d3101e" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="33feb801fc26403e2b9824d05d00f501.png" xmlns="">0FlmxNQuG1kuF4cbdNhtqqw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

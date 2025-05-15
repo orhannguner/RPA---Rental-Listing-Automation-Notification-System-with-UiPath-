@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Konut Fiyatları ve Emlak İlanları sahi",
+  "Type": "Screen",
+  "Id": "RzM1jebojkeV5EQgHfVxlg",
+  "Reference": "V-e0v0BegEK_V8zJ1L3cvg/RzM1jebojkeV5EQgHfVxlg",
+  "ParentRef": "V-e0v0BegEK_V8zJ1L3cvg/tZrMeqDbr0OO-URJkQmHtg",
+  "Created": "2025-04-07T22:53:10.1423224Z",
+  "Updated": "2025-04-07T22:53:10.1423224Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
